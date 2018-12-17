@@ -1,2 +1,0 @@
-newfile1
-feature1 change
